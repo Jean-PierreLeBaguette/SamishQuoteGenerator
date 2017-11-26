@@ -1,5 +1,5 @@
 //Made by Jean-Pierre LeBaguette
-//Licensed under the CC BY-NC-ND 2.0
+//Licensed under the CC BY-NC-ND 4.0
 using System;
 using System.Threading;
 using System.Collections.Generic;
